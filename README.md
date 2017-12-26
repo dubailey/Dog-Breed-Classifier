@@ -1,4 +1,5 @@
-#Dog Breed Classifier
+#Dog-Breed-Classifier
+
 This jupyter notebook utilises facial recognition software and transfer learning to train a CNN to classify dog breed.
 
 The Dog dataset can be downloaded here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
