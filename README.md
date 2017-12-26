@@ -1,4 +1,4 @@
-#Dog-Breed-Classifier
+Dog-Breed-Classifier
 
 This jupyter notebook utilises facial recognition software and transfer learning to train a CNN to classify dog breed.
 
